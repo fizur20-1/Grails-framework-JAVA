@@ -1,6 +1,4 @@
-# Grails 4.0.1-framework-JAVA
-
-# Grails 4.0.1 CRUD Operations Project
+# Grails 4.0.1 CRUD Operations Project ( # Grails 4.0.1-framework-JAVA )
 
 ## Table of Contents
 - [Introduction](#introduction)
